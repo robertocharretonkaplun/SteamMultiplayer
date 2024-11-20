@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/Maps/L_MainMenu.umap",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Maps/L_MainMenu.umap",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Blueprints/GM_MainMenu.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Widgets/WB_MainMenu.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Blueprints/PC_MainMenu.uasset"
+			]
+		}
+	]
+}
