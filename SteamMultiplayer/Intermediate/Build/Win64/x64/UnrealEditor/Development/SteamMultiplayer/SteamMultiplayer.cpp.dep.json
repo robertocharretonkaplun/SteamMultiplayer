@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rchar\\onedrive\\documentos\\github\\steammultiplayer\\steammultiplayer\\source\\steammultiplayer\\steammultiplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rchar\\onedrive\\documentos\\github\\steammultiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\steammultiplayereditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\rchar\\onedrive\\documentos\\github\\steammultiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammultiplayer\\definitions.steammultiplayer.h",
+            "c:\\users\\rchar\\onedrive\\documentos\\github\\steammultiplayer\\steammultiplayer\\source\\steammultiplayer\\steammultiplayer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

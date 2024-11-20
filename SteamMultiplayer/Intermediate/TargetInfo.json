@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SteamMultiplayer",
+			"Path": "..\\Source\\SteamMultiplayer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SteamMultiplayerEditor",
+			"Path": "..\\Source\\SteamMultiplayerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
