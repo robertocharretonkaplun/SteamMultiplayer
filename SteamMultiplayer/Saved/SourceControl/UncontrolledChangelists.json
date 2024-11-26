@@ -5,11 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/Maps/L_MainMenu.umap",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Maps/L_MainMenu.umap",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Blueprints/GM_MainMenu.uasset",
 				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Widgets/WB_MainMenu.uasset",
-				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Blueprints/PC_MainMenu.uasset"
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Blueprints/PC_MainMenu.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Widgets/WB_CreateServer.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Widgets/WB_ServerBrowser.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Widgets/WB_ServerSlotContainer.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/001SteamMultiplayer/Blueprints/GI_SteamMultiplayer.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/SteamMultiplayer/SteamMultiplayer/Content/Maps/L_MainMenu.umap"
 			]
 		}
 	]
